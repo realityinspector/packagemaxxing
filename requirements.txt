@@ -1,0 +1,23 @@
+# Core AI and ML packages for Apple Silicon
+mlx>=0.0.1
+mlx-whisper>=0.0.1
+mlx-vlm>=0.0.1
+
+# Computer vision and image processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# Web interface
+gradio>=4.0.0
+
+# Audio processing
+sounddevice>=0.4.0
+
+# Optional: Additional effects and utilities
+moderngl>=5.8.0
+pygame>=2.5.0
+moviepy>=1.0.0
+python-osc>=1.8.0
+
